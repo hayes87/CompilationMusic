@@ -1,0 +1,17 @@
+{
+    "description": "", 
+    "displayName": "Compilation Music", 
+    "keywords": [  
+        
+    ], 
+    "name": "com.hayes.CompilationMusic", 
+    "readme": "Compilation Music", 
+    "repoPackagePath": "", 
+    "repository": {
+        "revision": "f26063a367f4208e8a36a3408f44c3bd446fd0c2", 
+        "type": "git", 
+        "url": "https://github.com/hayes87/CompilationMusic.git"
+    }, 
+    "unity": "2018.3", 
+    "version": "1"
+}
