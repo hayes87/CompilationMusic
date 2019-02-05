@@ -2,10 +2,6 @@
     "displayName": "Compilation Music",             
     "name": "com.hayes.compilationmusic",     
     "repoPackagePath": "com.hayes.compilationmusic", 
-    "repository": {        
-        "type": "git", 
-        "url": "https://github.com/hayes87/CompilationMusic.git"
-    }, 
     "unity": "2018.3", 
     "version": "1"
 }
