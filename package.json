@@ -1,6 +1,6 @@
 {
     "displayName": "Compilation Music",             
-    "name": "com.hayes.CompilationMusic",     
+    "name": "com.hayes.compilationmusic",     
     "repoPackagePath": "com.hayes.compilationmusic", 
     "repository": {        
         "type": "git", 
